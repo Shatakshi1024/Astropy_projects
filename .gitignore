@@ -1,0 +1,16 @@
+# Compiled Object files and executables
+*.o
+*.out
+*.exe
+day[0-9]*
+!*.cpp
+!*.h
+
+# Build directories & IDE settings
+build/
+.vscode/
+
+# CERN ROOT temporary build artifacts
+*_C.d
+*_C.so
+*_C_ACLiC_dict_rdict.pcm
