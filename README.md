@@ -8,5 +8,6 @@ A structured 2-month implementation repository building computational C++ and CE
 - **Analysis Framework:** CERN ROOT
 
 ## Progress Log
-- **Day 01:** Fundamental data types, physical constants ($m_e$, $Z$), and boolean flags (`day01_particle_constants.cpp`).
-- **Day 02:** Relativistic kinetic energy ($T = E - m$), momentum magnitude ($|\vec{p}|$), and integer vs. floating-point division in detector efficiency calculations (`day02_relativistic_kinematics.cpp`).
+- **Day 01:** Fundamental data types, physical constants (m_e, Z), and boolean flags (`day01_particle_constants.cpp`).
+- **Day 02:** Relativistic kinetic energy (T = E - m), momentum magnitude , and integer vs. floating-point division in detector efficiency calculations (`day02_relativistic_kinematics.cpp`).
+- **Day 03:** Void functions, parameters, and interactive relativistic KE calculator (`day03_void_function.cpp`).
